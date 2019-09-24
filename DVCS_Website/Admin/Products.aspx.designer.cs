@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DVCS_Website
+namespace DVCS_Website.Admin
 {
 
 
-    public partial class About
+    public partial class Products
     {
     }
 }
